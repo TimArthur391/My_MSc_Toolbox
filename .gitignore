@@ -1,5 +1,10 @@
 tests.py
-
+data/
+*.csv
+*.jpg
+*.png
+Investigations/Flattern_gait_lab_images/Images_to_undistort/
+Inertial Outliers.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

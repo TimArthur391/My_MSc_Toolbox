@@ -1,0 +1,3 @@
+The 2 sample t test to compare differences between above knee and below knee difference in peak hip and knee flexion moments are: 
+Ttest_indResult(statistic=-0.3250291096574747, pvalue=0.7499652660491025)for peak hip flexion moments, and 
+Ttest_indResult(statistic=-1.2982702781379545, pvalue=0.21517492047588752)for peak knee flexion moments. 
