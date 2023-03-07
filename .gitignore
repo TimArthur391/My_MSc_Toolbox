@@ -4,7 +4,9 @@ data/
 *.jpg
 *.png
 Investigations/Flattern_gait_lab_images/Images_to_undistort/
-Inertial Outliers.txt
+Investigations/Analysis_of_data/Outputs/
+ex_ttest_paired.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
